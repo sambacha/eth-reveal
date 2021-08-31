@@ -4,7 +4,9 @@
   "description": "Dig into Ethereum transactions and reveal their secrets",
   "main": "reveal.js",
   "browser": "browser.js",
-  "resolutions": { "js-sha3": "0.8.0" },
+  "resolutions": {
+    "js-sha3": "0.8.0"
+  },
   "dependencies": {
     "abi-decoder": "^2.4.0",
     "axios": "^0.21.1",
@@ -19,6 +21,7 @@
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.3.2",
+    "terser-webpack-plugin": "4.2.3",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   },
