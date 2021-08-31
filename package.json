@@ -1,5 +1,5 @@
 {
-  "name": "eth-reveal",
+  "name": "txreveal",
   "version": "0.6.2",
   "description": "Dig into Ethereum transactions and reveal their secrets",
   "main": "reveal.js",
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justinjmoses/eth-reveal.git"
+    "url": "git+https://github.com/sambacha/eth-reveal.git"
   },
   "keywords": [
     "ethereum",
@@ -50,7 +50,7 @@
   "author": "justin j. moses",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/justinjmoses/eth-reveal/issues"
+    "url": "https://github.com/sambacha/eth-reveal/issues"
   },
-  "homepage": "https://github.com/justinjmoses/eth-reveal#readme"
+  "homepage": "https://github.com/sambacha/eth-reveal#readme"
 }
